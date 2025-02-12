@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve Yelp? | Yelp PM Interview
-
-### Yelp Product Manager Interview Question - Product Improvement : How would you improve Yelp?
-
-#### Share this post
-
 
 
 ### 
@@ -95,6 +87,4 @@ With this user goal in mind, I plan to investigate various use cases to identify
 ### Use Cases
 
 The different stages a user goes through when searching for home services providers:
-
-## This post is for paid subscribers
 

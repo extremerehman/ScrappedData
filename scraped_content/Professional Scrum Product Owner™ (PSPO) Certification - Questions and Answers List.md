@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# 100+ Question & Answers - Professional Scrum Product Owner™
-
-### Professional Scrum Product Owner™ (PSPO) Certification - Questions and Answers List
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/pspo-certification-questions-and-answers-list?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -174,6 +166,4 @@ b) Complexity, agility, openness, commitment
 c) Velocity, risk, ownership
 
 d) Description, order and size
-
-## This post is for paid subscribers
 

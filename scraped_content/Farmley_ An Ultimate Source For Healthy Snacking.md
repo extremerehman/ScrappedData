@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study: Farmley
-
-### Business Case Study - Farmley: An Ultimate Source For Healthy Snacking
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/business-case-study-farmley?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -76,6 +68,4 @@ DSG Consumer Partners
 
 
 ## How does it differentiate itself from its competitors?
-
-## This post is for paid subscribers
 

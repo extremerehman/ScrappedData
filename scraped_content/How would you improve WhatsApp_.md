@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve WhatsApp? | Facebook PM Interview
-
-### Product Improvement - Facebook Product Manager Interview: How would you improve WhatsApp?
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/product-improve-how-would-you-improve-whatsapp?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -233,6 +225,4 @@ Note: Mentioning a maximum of 5-6 pain points during the actual interview should
 
 
 #### Step 6: List down the solutions
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Leveraging Contextual Effects in Decision Making
-
-### Psychological Pricing (Part 6): Leveraging Contextual Effects in Decision Making
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/leveraging-contextual-effects-in-decision-making?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -76,6 +68,4 @@ Think of a menu at a restaurant with starters, entrées, and desserts. Customers
 To take advantage of the descending order effect, online retailers strategically place their product listings in descending order. Luxury brands might place their flagship items at the top to draw customers in and suggest exclusivity at higher price points.
 
 ### 4. The Anchoring Effect
-
-## This post is for paid subscribers
 

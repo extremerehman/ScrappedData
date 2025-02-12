@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you design a bicycle renting app for tourists?
-
-### Google Product Manager Interview Questions: Product Design - How would you design a bicycle renting app for tourists?
-
-#### Share this post
-
 
 
 
@@ -150,6 +142,4 @@ Support and Assistance: The app provides customer support and assistance in case
 
 
 ### 5. Pain Points
-
-## This post is for paid subscribers
 

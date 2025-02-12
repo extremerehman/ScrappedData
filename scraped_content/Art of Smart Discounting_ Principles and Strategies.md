@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Art of Smart Discounting: Principles and Strategies
-
-### Price Psychology (Part 7) - Mastering the Art of Smart Discounting: Principles and Strategies
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/art-of-smart-discounting-principles?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -63,6 +55,4 @@ Example: Let $199 be the sale price and $299 be the original price. So, $199 sho
 Similarly, the verbal matching effect emphasizes the importance of linguistic cues in reinforcing the perception of discounts. By associating the sale price with words connoting smallness or low value—such as "discounted," "savings," “low”,  or "value"—businesses can further reinforce the notion of a compelling offer, thereby augmenting its allure and desirability.
 
 ### 5. Relative Distance Effect:
-
-## This post is for paid subscribers
 

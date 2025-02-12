@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Measure the success of Netflix Recommendation Engine - Netflix PM
-
-### Product Metrics - Netflix PM Interview: How would you measure the success of the Netflix recommendation engine?
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/measure-the-success-of-netflix-recommendation?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -295,6 +287,4 @@ The recommendation engine continuously updates and refines suggestions based on 
 ## Step 5: Metrics for each step of the User Journey
 
 Once you are done describing the User Journey of the feature / product, its time to define the metrics for each phase in the customer journey. Below is a list of all the customer journey phases a user can go through: (3AE3R )
-
-## This post is for paid subscribers
 

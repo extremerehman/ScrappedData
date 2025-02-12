@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How to Answer Product Strategy Questions?
-
-### Here is a step by step guide on how to answer Product Strategy Questions with examples
-
-#### Share this post
-
 
 
 ### Why are Product Strategy Questions asked?
@@ -70,6 +62,4 @@ Asking these types of clarifying questions can help you understand the scope of 
 Note that the interviewer may sometimes respond by giving you more freedom to choose the path to move forward. In this case, it's important to take a step back and think critically about what the company's missions and goals are and what you believe is the best approach to achieve those goals. Ultimately, the goal is to demonstrate that you can think creatively and strategically about product problems and come up with effective solutions.
 
 #### 2. Describe the Company & Product
-
-## This post is for paid subscribers
 

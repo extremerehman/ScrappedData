@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Improve Retention of Hindi Speaking Market for a Gaming Company
-
-### Asked at Rummy Circle. Could be asked at similar companies - Rummy Culture, Junglee Games, A23 Rummy, Paytm First Games, Poker Baazi, Poker Stars or any Real Money Gaming company
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/improve-retention-of-hindi-speaking-market?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -109,6 +101,4 @@ Total users acquired in the last 12 months: 100,000
 ### 1. User data to look at to identify reasons for poor long-term retention in the HSM market.
 
 To identify the reasons for poor long-term retention in the Hindi Speaking Markets (HSM), I'll focus on several key user data points and metrics to understand user behaviour, engagement, and potential issues within the HSM market. Here’s the data to analyse:
-
-## This post is for paid subscribers
 

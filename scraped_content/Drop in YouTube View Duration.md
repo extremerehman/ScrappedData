@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Drop in YouTube View Duration - Root Cause Analysis
-
-### You are the product manager at YouTube. You see there is a 30% drop in the Average View Duration. Find the Root Cause and Tell us what could have happened.
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/drop-in-youtube-view-duration-root-cause-analysis?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -170,6 +162,4 @@ Q) Any increase in the number of incidents, bugs, uninstalls or Playstore rating
 ### User Journey:
 
 Next, we will go through the user journey and see if there is any glitch/bug in the journey for users accessing and watching videos on YouTube:
-
-## This post is for paid subscribers
 

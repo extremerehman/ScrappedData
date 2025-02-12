@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Problems while working with developers and how to solve them?
-
-### TBO, Adobe: Behavioral - What are the problems you face while working with developer and how do you solve them?
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/problems-while-working-with-developers?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -45,6 +37,4 @@ Problem: "Why didn't you review the product and engineering spec closely? Why ch
 
 
 ### 3. Timeline Delivery of Features:
-
-## This post is for paid subscribers
 

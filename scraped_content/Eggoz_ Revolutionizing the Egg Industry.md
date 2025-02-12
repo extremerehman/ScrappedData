@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study: Eggoz
-
-### Business Case Study - Eggoz: Revolutionizing the Egg Industry
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/business-case-study-eggoz?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -81,6 +73,4 @@ As he stated in one of his interviews, there are three of them, and Aditya Singh
 
 
 ## Brand design and Marketing strategy
-
-## This post is for paid subscribers
 

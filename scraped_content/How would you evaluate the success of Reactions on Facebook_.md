@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you evaluate the success of Reactions on Facebook? | Facebook PM Interview
-
-### Facebook PM Interview: Product Metric Question and Answer - How would you evaluate the success of Reactions on Facebook?
-
-#### Share this post
-
 
 
 
@@ -101,6 +93,4 @@ Tip: Before jumping into the next part, make sure the interviewer is in sync wit
 
 
 #### Describe the Product
-
-## This post is for paid subscribers
 

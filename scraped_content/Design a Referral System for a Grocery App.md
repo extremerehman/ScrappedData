@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design a Referral System for a Grocery App - Product Design
-
-### Google PM Interview: Product Design - Design a referral system for a grocery app
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/design-a-referral-system-for-a-grocery-app?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -248,6 +240,4 @@ Reasoning: This demographic typically has higher disposable income to make frequ
 
 
 Following are some of the Pain Points for Young Couples,
-
-## This post is for paid subscribers
 

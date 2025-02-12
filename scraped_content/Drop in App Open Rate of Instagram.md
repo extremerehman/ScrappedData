@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Drop in App Open Rate of Instagram - Product Execution
-
-### You are the product manager for Instagram App. You see there is a 15% drop in the App Open Rate. Find the Root Cause and Tell us what could have happened.
-
-#### Share this post
-
 ### Problem Statement:
 
 You are the Product Manager for Instagram App. You see there is a 15% drop in the App Open Rate. Do a Root Cause Analysis and Tell us what could have happened  in order to devise appropriate solutions.
@@ -120,6 +112,4 @@ Q) The platform might be dependent upon multiple third-party services like Cloud
 Q) Since the drop majorly came from mobile, is there any new iOS version or Android OS update that came out that caused the apps to not work.A) No new updates that we are aware of.
 
 ### Demographics Factors:
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Estimation - Number of Mobile Phones Sold in India annually
-
-### Guess estimate the Number of Mobile Phones Sold in India annually
-
-#### Share this post
-
 
 
 
@@ -864,6 +856,4 @@ Product Strategy
 
 
 
-
-#### Share this post
 

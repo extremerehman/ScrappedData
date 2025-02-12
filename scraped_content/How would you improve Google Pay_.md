@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve Google Pay? - Product Improvement
-
-### Google Product Manager Interview: Product Improvement - How would you improve Google Pay?
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/how-can-we-improve-google-pay-product?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -251,6 +243,4 @@ Globetrotters and Travelers: Individuals who frequently travel domestically or i
 
 
 The following are some pain points that individuals may experience when using Google Pay,
-
-## This post is for paid subscribers
 

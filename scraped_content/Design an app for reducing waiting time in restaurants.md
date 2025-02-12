@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design an app for reducing waiting time in restaurants
-
-### Swiggy/Zomato PM Interview: Product Design - Design an app for reducing waiting time in restaurants or food chains
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/design-an-app-to-reduce-wait-time-in-restaurants?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -225,6 +217,4 @@ Customers may experience frustration due to inadequate communication regarding w
 Traditional payment processes, such as waiting for the check or splitting bills, can be cumbersome and time-consuming especially in scenarios involving multiple diners or payment methods.
 
 ### 5. Solutions
-
-## This post is for paid subscribers
 

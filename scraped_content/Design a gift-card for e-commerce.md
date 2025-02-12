@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design a gift-card for e-commerce
-
-### Google Product Design Interview Question: An e-commerce platform wants to enable its users to buy and send gift cards to their loved ones. How would you go about building that feature?
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/design-a-gift-card-for-e-commerce-platform?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -365,6 +357,4 @@ Lack of Promotions or Incentives or offers (such as discounts or bonus cards)  c
 [Share](https://www.mypminterview.com/p/design-a-gift-card-for-e-commerce-platform?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 ### 5. Solutions
-
-## This post is for paid subscribers
 

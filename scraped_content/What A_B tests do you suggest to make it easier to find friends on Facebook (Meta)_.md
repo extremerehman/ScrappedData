@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# What A/B tests do you suggest to make it easier to find friends on Facebook (Meta)?
-
-### You are the Product Manager of Facebook (Meta), What A/B tests do you suggest to make it easier to find friends on Facebook?
-
-#### Share this post
-
 
 
 
@@ -80,6 +72,4 @@ Power User: This group of users is highly active on the platform and friending p
 In this case, it is recommended to focus on the Moderate User group, as they have enough friends to provide valuable data and insights, but are not as active as Power Users, making it easier to analyze their behavior and provide meaningful recommendations.
 
 ### Brainstorm AB Test Ideas:
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study: Spotify vs Apple Music vs YouTube Music War
-
-### Business Case Study: Spotify vs Apple Music vs YouTube Music
-
-#### Share this post
-
 
 
 
@@ -1007,6 +999,4 @@ Twitter: [https://twitter.com/mypminterview_](https://twitter.com/mypminterview_
 YouTube: [https://www.youtube.com/@mypminterview/](https://www.youtube.com/@mypminterview/)
 
 Email: mypminterview@gmail.com or admin@mypminterview.com
-
-#### Share this post
 

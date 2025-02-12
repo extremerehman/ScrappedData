@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design a new product on Meta (Facebook) to Find Apartments
-
-### Facebook PM Interview: Product Design - Design a new product on Meta (Facebook) to Find Apartments
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/design-a-product-on-facebook-to-find-apartments?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -270,6 +262,4 @@ Targeting this segment ensures a strategic entry point, allowing for the refinem
 ### Step 4: Pain Points
 
 Following are some of the Pain Points for College Students Seeking Apartments for Rent,
-
-## This post is for paid subscribers
 

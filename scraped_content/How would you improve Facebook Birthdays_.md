@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve Facebook Birthdays? - Product Improvement
-
-### Facebook Product Manager Interview: Product Improvement - How would you improve Facebook Birthdays?
-
-#### Share this post
-
 
 
 
@@ -190,6 +182,4 @@ User is unfamiliar and doesn’t know much about this person outside of what the
 I would prioritize the Birthday Wisher user segment since they form the largest cohort who drives this feature usage and improvements in this segment would result in growth in engagement and retention in the platform.
 
 ### Step 5.   List and prioritize the Pain Points. (P)
-
-## This post is for paid subscribers
 

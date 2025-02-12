@@ -4,12 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Different Types of Business Models
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/different-types-of-business-models?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -1119,6 +1113,4 @@ Website: [https://www.mypminterview.com/subscribe](https://www.mypminterview.co
 Once done, email us the payment receipt at mypminterview@gmail.com
 
 In case you have any queries or suggestions, feel free to reach out at mypminterview@gmail.com
-
-#### Share this post
 

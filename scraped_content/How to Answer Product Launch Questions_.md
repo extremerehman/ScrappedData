@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How to Answer Product Launch Questions? - My PM Interview
-
-### Here is a step by step guide on how to answer Product Launch Questions with examples
-
-#### Share this post
-
 
 
 
@@ -104,6 +96,4 @@ Before continuing, make sure the interviewer concurs with your understanding of 
 ### 
 
 ### Step 2: Ask clarifying Questions to trim down the scope of the question.
-
-## This post is for paid subscribers
 

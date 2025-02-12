@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design a Language Learning App for Children
-
-### Google PM Interview: Product Design - Design a Language Learning App for Children
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/design-a-language-learning-app-for-children?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -350,6 +342,4 @@ Children may lack access to personalized feedback and guidance from teachers or 
 
 
 ### 5. Solutions
-
-## This post is for paid subscribers
 

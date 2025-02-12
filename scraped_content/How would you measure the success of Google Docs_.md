@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you measure the success of Google Docs? - Google PM Interview
-
-### Google PM Interview: How would you measure the success of Google Docs?
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/measure-the-success-of-google-docs?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -324,6 +316,4 @@ Distribution options include sharing a link, sending the document via email, or 
 
 
 Once you are done describing the User Journey of the feature / product, its time to define the metrics for each phase in the customer journey. Below is a list of all the customer journey phases a user can go through: (3AE3R )
-
-## This post is for paid subscribers
 

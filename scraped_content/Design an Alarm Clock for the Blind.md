@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design an Alarm Clock for the Blind
-
-### Google PM Interview: Product Design - Design an Alarm Clock for the Blind
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/design-an-alarm-clock-for-the-blind?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -324,6 +316,4 @@ Fully blind users might not be aware when the clock is running on low battery, r
 
 
 ### 5. Solutions
-
-## This post is for paid subscribers
 

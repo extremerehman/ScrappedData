@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Mission Statements of Top Tech Companies - PM Interview
-
-### Important Mission Statements to remember while answering Product Management Interview Questions
-
-#### Share this post
-
 
 
 
@@ -1114,6 +1106,4 @@ Twitter: [https://twitter.com/mypminterview_](https://twitter.com/mypminterview_
 YouTube: [https://www.youtube.com/@mypminterview/](https://www.youtube.com/@mypminterview/)
 
 Email: mypminterview@gmail.com or admin@mypminterview.com
-
-#### Share this post
 

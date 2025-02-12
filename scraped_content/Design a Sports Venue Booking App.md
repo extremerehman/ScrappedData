@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design a Sports Venue Booking App
-
-### Product Design Question - Asked at Google, Meta, Microsoft and other large tech companies.
-
-#### Share this post
-
 
 
 
@@ -407,6 +399,4 @@ Criteria for selection: Revenue potential, Operational efficiency, and Customer 
 [Share](https://www.mypminterview.com/p/design-a-sports-venue-booking-app?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 ## Step 6: Solutions
-
-## This post is for paid subscribers
 

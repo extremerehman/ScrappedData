@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Estimation - Number of WhatsApp Chats occurring in India
-
-### Product Management Interview: Guess estimate the total number of WhatsApp messages sent in India.
-
-#### Share this post
-
 
 
 
@@ -856,6 +848,4 @@ Product Strategy
 [Mission Statements of Top Tech Companies](https://www.mypminterview.com/p/mission-statement-of-top-tech-companies) [FREE]
 
 [100+ Product Manager Interview Questions ](https://www.mypminterview.com/p/100-product-manager-interview-questions)[FREE]
-
-#### Share this post
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Improve experience of users complaining about long queues during check out
-
-### Google PM Interview: For a retail store, users are frequently complaining about long queues during check out. What strategy would you use to improve the experience in the short term and long term?
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/improve-experience-of-long-queue-during-checkout?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -234,6 +226,4 @@ The highest priority is given to addressing long wait times, as it is a critical
 
 
 ### 7. Solutions
-
-## This post is for paid subscribers
 

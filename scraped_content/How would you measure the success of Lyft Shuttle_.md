@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you measure the success of Lyft Shuttle? - Uber PM Interview
-
-### Uber PM Interview: This product management interview question tests whether you understand the process of defining metrics.
-
-#### Share this post
-
 
 
 
@@ -61,6 +53,4 @@ Summarize your analysis.
 
 
 ### Describe the feature
-
-## This post is for paid subscribers
 

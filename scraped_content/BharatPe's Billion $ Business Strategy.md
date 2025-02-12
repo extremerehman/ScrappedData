@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study: BharatPe's Billion $ Business Strategy
-
-### How Ashneer Grover's GENIUS STRATEGY turned Bharatpe into a $2.8 Billion company?
-
-#### Share this post
-
 
 
 In the past five years we have seen a dozen players jump into the digital payments market and BharatPe in spite of being a newbie in the crowded wallet market has already reached a 2.8 billion dollar valuation in just three years of its launch and within this short span of its existence, it's already serving more than 7.5 million merchants in more than 140 cities and claims to process over 110 million UPI transactions per month.
@@ -1023,6 +1015,4 @@ Twitter: [https://twitter.com/mypminterview_](https://twitter.com/mypminterview_
 YouTube: [https://www.youtube.com/@mypminterview/](https://www.youtube.com/@mypminterview/)
 
 Email: mypminterview@gmail.com or admin@mypminterview.com
-
-#### Share this post
 

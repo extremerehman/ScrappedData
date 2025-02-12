@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you measure the success of Zoom?
-
-### Zoom PM Interview: How would you measure the success of Zoom?
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/how-would-you-measure-the-success-of-zoom?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -316,6 +308,4 @@ Once you are done describing the User Journey of the feature / product, its time
 #### Awareness:
 
 Metrics:
-
-## This post is for paid subscribers
 

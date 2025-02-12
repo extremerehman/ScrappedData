@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you Monetize WhatsApp? | Meta PM Interview
-
-### Product Improvement - Meta Product Manager Interview: How would you Monetize WhatsApp? - Asked at Meta, Google Adobe, Microsoft.
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/how-would-you-monetize-whatsapp-meta?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -187,6 +179,4 @@ Now, Select your user group and state your reason for the same. -
 If we can solve the pain points of these users and help them engage more, then that would increase user engagement, retention and revenue as well.
 
 ## Step 5: List down the user Pain Points
-
-## This post is for paid subscribers
 

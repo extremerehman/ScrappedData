@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Mastering Price Framing: Influencing Consumer Behavior
-
-### Psychological Pricing (Part 5) : Mastering Price Framing and Influencing Consumer Behavior
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/mastering-price-framing-strategies?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -49,6 +41,4 @@ To further illustrate this idea, picture a clothes store giving a $19.99 t-shirt
 To summarise, “Use gain frame message to maximise the benefit of 9 ending prices”.
 
 ### 4. Time Framing:
-
-## This post is for paid subscribers
 

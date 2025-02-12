@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# 200+ Estimation Questions asked at PM Job interviews
-
-### Guess Estimation problems are very common in Product Management and Consulting Interview. Here is a list of some important data points that will help you out.
-
-#### Share this post
-
 Subscribe today and get access to every Answer on the platform. Limited Period Offer!
 
 [Activate Subscription & Unlock Answers](https://www.mypminterview.com/subscribe)
@@ -1880,6 +1872,4 @@ Product Strategy
 [100+ Product Manager Interview Questions ](https://www.mypminterview.com/p/100-product-manager-interview-questions)[FREE]
 
 [PM Interview Questions from your Work Experience](https://www.mypminterview.com/p/pm-interview-questions-from-your-work-experience) [FREE]
-
-#### Share this post
 

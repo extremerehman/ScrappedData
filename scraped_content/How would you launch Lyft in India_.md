@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you launch Lyft in India? | Product Launch
-
-### Lyft Product Manager Interview: How would you launch Lyft in India?
-
-#### Share this post
-
 
 
 
@@ -93,6 +85,4 @@ I'm first going to analyze a few different components before formulating the lau
 
 
 Here are the different component,
-
-## This post is for paid subscribers
 

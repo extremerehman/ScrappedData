@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Profitability Analysis between Uber & Ola
-
-### Ola acquires 10000 users daily, and Uber acquired 20000 users daily. At the end of one year, which company would be more profitable?
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/profitability-analysis-between-uber-and-ola?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -57,6 +49,4 @@ Flipkart: 20,000 × 365 = 7,300,000 users.
 
 
 ### Assumptions:
-
-## This post is for paid subscribers
 

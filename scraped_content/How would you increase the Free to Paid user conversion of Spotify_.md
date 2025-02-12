@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you increase the Free to Paid user conversion of Spotify?
-
-### Spotify PM Interview: Currently, Free to Paid user conversion of Spotify stands at 10%. How would you as a Product Manager would improve it?
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/increase-the-free-to-cash-conversion-of-spotify?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -173,6 +165,4 @@ They may not see the value in paying for a subscription if they don't use the se
 Casual users may be unsure about their future usage patterns or whether they will continue to use the service long-term. This uncertainty could deter them from committing to a paid subscription.
 
 ### Step 6. List out your Solutions. (S)
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you evaluate the success of Instagram Stories?
-
-### Instagram PM Interview - Product Metric Question and Answer - How would you evaluate the success of Instagram Stories?
-
-#### Share this post
-
 
 
 
@@ -982,6 +974,4 @@ How would you improve Gmail?
 [100+ Product Manager Interview Questions ](https://www.mypminterview.com/p/100-product-manager-interview-questions)[FREE]
 
 [PM Interview Questions from your Work Experience](https://www.mypminterview.com/p/pm-interview-questions-from-your-work-experience)
-
-#### Share this post
 

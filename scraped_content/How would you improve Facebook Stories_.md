@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve Facebook Stories? | Facebook PM Interview
-
-### Product Improvement - Facebook Product Manager Interview Question: How would you improve Facebook Stories?
-
-#### Share this post
-
 
 
 
@@ -133,6 +125,4 @@ Now, Select your user group and state your reason for the same. -
 If we can solve the pain points of these users, and help them engage more then that would have the most significant impact on user engagement, and the benefit can trickle down to other segments, which in turn can lead to an increase in retention and revenue as well.”
 
 #### Step 5: List down the user pain-points
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve Amazon? - Product Improvement
-
-### Amazon Product Manager Interview: Product Improvement - How would you improve Amazon?
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/how-would-you-improve-amazon-product?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -216,6 +208,4 @@ Understanding the needs, preferences, and behaviours of individual customers is 
 
 
 Here are some common pain points that the Individual segment may encounter when using Amazon:
-
-## This post is for paid subscribers
 

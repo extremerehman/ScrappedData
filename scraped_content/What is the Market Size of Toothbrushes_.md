@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# What is the Market Size of Toothbrushes?
-
-### Product Marketing Management Interview: Market Sizing Question: What is the market size of toothbrushes?
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/what-is-the-market-size-of-toothbrushes?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -155,6 +147,4 @@ Is the focus on the entire Indian market or a specific region?
 Assuming we define market size as the total annual sales of all types of electric toothbrushes in the entire Indian market.
 
 #### Step 2: Develop a Market Sizing Framework (Top-Down Approach)
-
-## This post is for paid subscribers
 

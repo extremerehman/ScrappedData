@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How do you work with different stakeholders as a PM?
-
-### Adobe Product Manager: How do you work with different stakeholders as a Product Manager?
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/how-do-you-work-with-different-stakeholders?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -81,6 +73,4 @@ Finance Team:
 Product Budgeting, Pricing Strategies, Accounting Compliance and Financial Projections.
 
 Legal and Compliance:
-
-## This post is for paid subscribers
 

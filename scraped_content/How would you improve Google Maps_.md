@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve Google Maps? | Google PM Interview
-
-### Google Product Manager Interview: How would you improve Google Maps?
-
-#### Share this post
-
 
 
 
@@ -172,6 +164,4 @@ Now, Select your user group and state your reason for the same. -
 
 
 #### Step 5: List down the user pain-points
-
-## This post is for paid subscribers
 

@@ -101,20 +101,44 @@ def convert_to_markdown(element):
 
 def scrape_article_content(session, url):
     try:
+        # Use the same headers as login to maintain authentication
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36",
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "Origin": "https://substack.com",
+            "Referer": "https://substack.com/sign-in"
+        }
+        
         response = session.get(url, headers=headers)
         if response.status_code == 200:
             soup = BeautifulSoup(response.text, "html.parser")
             
-            # Find the main article content
-            article = soup.find('article') or soup.find('div', class_='post-content')
+            # Try multiple possible content containers
+            article = (
+                soup.find('article') or 
+                soup.find('div', class_='post-content') or
+                soup.find('div', class_='body') or
+                soup.find('div', class_='content') or
+                soup.find('div', {'data-component': 'post-content'})
+            )
             
             if article:
+                # First, try to get the main content area
+                content_area = article.find('div', class_='available-content')
+                if not content_area:
+                    content_area = article
+                
                 # Convert content to markdown
                 markdown_content = ""
-                for element in article.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'ul', 'ol', 'blockquote', 'pre', 'code']):
+                for element in content_area.find_all(['h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'ul', 'ol', 'blockquote', 'pre', 'code']):
                     markdown_content += convert_to_markdown(element)
+                
+                if not markdown_content.strip():
+                    return "No content found in the article"
+                    
                 return markdown_content
-            return "No content found"
+            return "No article content found"
     except Exception as e:
         return f"Error scraping content: {str(e)}"
     
@@ -129,7 +153,7 @@ def main():
     # Create a session to maintain login cookies
     session = requests.Session()
     
-    # Login first
+    # Initial login
     if not login_to_site(session):
         print("Failed to login. Exiting...")
         return
@@ -137,8 +161,14 @@ def main():
     # Create output directory
     output_dir = create_output_directory()
     
+    # Create/Open CSV file for incomplete articles
+    incomplete_csv = os.path.join(output_dir, 'incomplete_articles.csv')
+    with open(incomplete_csv, 'w', newline='', encoding='utf-8') as inc_file:
+        inc_writer = csv.writer(inc_file)
+        inc_writer.writerow(['Title', 'URL'])  # Write header
+    
     # Read URLs from CSV
-    with open("scraped_blog_links.csv", "r", encoding="utf-8") as file:
+    with open("incomplete.csv", "r", encoding="utf-8") as file:
         reader = csv.DictReader(file)
         total_links = sum(1 for row in reader)  # Count total links
         file.seek(0)  # Reset file pointer
@@ -147,6 +177,9 @@ def main():
         for index, row in enumerate(reader, 1):
             title = row['Title']
             url = row['Link']
+            
+            # Remove trailing asterisk if present
+            url = url.rstrip('*')
             
             # Skip non-article URLs
             if 'mailto:' in url or '/subscribe' in url:
@@ -162,9 +195,22 @@ def main():
                 continue
             
             print(f"Scraping {index}/{total_links}: {title}")
+            print(f"URL: {url}")
             
             # Scrape content using authenticated session
             content = scrape_article_content(session, url)
+            
+            # Check content length
+            content_lines = len(content.split('\n'))
+            if content_lines < 30:
+                filename = 'not_completed_' + filename
+                filepath = os.path.join(output_dir, filename)
+                print(f"Content too short ({content_lines} lines). Marking as not completed.")
+                
+                # Add to incomplete articles CSV
+                with open(incomplete_csv, 'a', newline='', encoding='utf-8') as inc_file:
+                    inc_writer = csv.writer(inc_file)
+                    inc_writer.writerow([title, url])
             
             # Save content to file
             with open(filepath, "w", encoding="utf-8") as f:
@@ -177,6 +223,7 @@ def main():
             time.sleep(2)
     
     print("\nScraping complete. Content saved in 'scraped_content' directory.")
+    print(f"Incomplete articles have been logged to {incomplete_csv}")
 
 if __name__ == "__main__":
     main()

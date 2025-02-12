@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve LinkedIn? | LinkedIn PM Interview
-
-### LinkedIn Product Manager Interview: Product Improvement - How would you improve LinkedIn?
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/product-improve-how-would-you-improve-linkedin?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -459,6 +451,4 @@ To address these pain points,  I would build a Resume Reviewer system where user
 Thank you for reading My PM Interview - Product Manager Interview Question Answers. This post is public, so feel free to share it.
 
 [Share](https://www.mypminterview.com/p/product-improve-how-would-you-improve-linkedin?utm_source=substack&utm_medium=email&utm_content=share&action=share)
-
-#### Share this post
 

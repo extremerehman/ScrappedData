@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study: Agarwal Packers and Movers
-
-### Business Case Study: Agarwal Packers and Movers - A 2000 Cr Business Brand
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/business-case-study-agarwal-packers-and-movers?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 APML is a transport, packing, and moving company founded by Mr. Ramesh Agarwal, a retired Air Force officer. Mr. Agarwal transformed his vision into reality, and today, APML holds a worth of INR 2000 crore.
@@ -83,6 +75,4 @@ This solution made it easy for the customers to transfer their goods without the
 Now came the problem that was most important and human in nature.
 
 ## Challenge 5: Driver Exhaustion and Lack of Motivation
-
-## This post is for paid subscribers
 

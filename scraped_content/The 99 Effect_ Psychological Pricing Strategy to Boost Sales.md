@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# The 99 Effect: Psychological Pricing Strategy to Boost Sales
-
-### Part 1 - Unlocking the Power of Perceived Savings: The Psychological Impact of the 99 Effect on Consumer Behavior
-
-#### Share this post
-
 
 
 Pricing is a critical component of any business strategy. Whether you are a small business owner or a multinational corporation, determining the right price for your products or services can have a significant impact on your bottom line. One pricing strategy that has gained popularity in recent years is psychological pricing, and in particular, the "99 effect."
@@ -115,6 +107,4 @@ Now that you understand the psychology behind the 99 effect, it's time to consid
 1. Factors to consider before implementing the 99 effect
 
 Factors to consider before implementing the 99 effect
-
-## This post is for paid subscribers
 

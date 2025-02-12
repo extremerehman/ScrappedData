@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Handling Additional Charges: Partitioned Pricing Strategies
-
-### Price Psychology (Part 8) - Handling Additional Charges: Partitioned Pricing Strategies
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/handling-additional-charges-partitioned-pricing?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -74,6 +66,4 @@ For instance, if a product is advertised at $100 with a 10% surcharge, consumers
 However, it's essential to exercise caution when using proportional surcharges, particularly if the percentage is disproportionately large. In such cases, consumers may perceive the surcharge as excessive, leading to hesitation or abandonment of the purchase.
 
 ### The Reverse Partitioning Effect
-
-## This post is for paid subscribers
 

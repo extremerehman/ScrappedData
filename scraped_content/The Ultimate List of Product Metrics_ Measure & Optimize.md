@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# The Ultimate List of Product Metrics: Measure & Optimize
-
-### The complete list of Product Metrics to Track, Analyze, and Optimize Your Product Performance
-
-#### Share this post
-
 
 
 
@@ -166,6 +158,4 @@ Time to Value (TTV): It is a metric used to measure the amount of time it takes 
 
 
 ### Engagement Metrics
-
-## This post is for paid subscribers
 

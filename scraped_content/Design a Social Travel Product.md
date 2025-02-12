@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design a Social Travel Product
-
-### Google PM Interview: Product Design - Design a Social Travel Product
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/design-a-social-travel-product?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -308,6 +300,4 @@ Unable to balance the costs of family travel, including transportation, accommod
 
 
 ### 5. Solutions
-
-## This post is for paid subscribers
 

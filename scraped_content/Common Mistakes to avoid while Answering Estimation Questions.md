@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Product Estimation Questions - Common Mistakes to Avoid
-
-### Product Manager Interview Questions: Common Mistakes to avoid while Answering Product Manager Estimation Questions
-
-#### Share this post
-
 
 
 
@@ -750,6 +742,4 @@ How would you improve Gmail?
 [100+ Product Manager Interview Questions ](https://www.mypminterview.com/p/100-product-manager-interview-questions)[FREE]
 
 [PM Interview Questions from your Work Experience](https://www.mypminterview.com/p/pm-interview-questions-from-your-work-experience)
-
-#### Share this post
 

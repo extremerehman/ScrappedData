@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve usage of Facebook Groups? | Facebook PM Interview
-
-### Product Improvement - Facebook Product Manager Interview Question: How would you improve usage of Facebook Groups?
-
-#### Share this post
-
 
 
 
@@ -155,6 +147,4 @@ I’m also assuming that if we will “take better care” of the admins, they w
 #### Step 5: List down the user pain-points
 
 Pain-Points of the Private/Individual Admin segment,
-
-## This post is for paid subscribers
 

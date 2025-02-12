@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# What were the data pipeline challenges on your last AI project?
-
-### Explain the data pipeline for the last AI project you worked on. What were the top challenges in getting data, and how did you resolve them?
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/ai-app-to-detech-acne-severity?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 In my last project, which had an AI application, we developed a consumer application aimed at addressing the severity of acne through a simple selfie image. The primary goal of this application was to provide users with an immediate prognosis of their acne condition and recommend appropriate treatments or suggest visiting a specialist. This project not only leveraged advanced machine-learning techniques but also incorporated domain expertise from dermatologists to ensure accurate and actionable results for users.
@@ -334,6 +326,4 @@ Balancing the trade-off between data quality and computational resources require
 
 
 ### c. Data Storage and Management
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How to Answer Product A/B Testing Questions? - My PM Interview
-
-### Here is a step by step guide on how to answer Product A/B Testing Questions in a Product Management Interview with Examples
-
-#### Share this post
-
 
 
 
@@ -109,6 +101,4 @@ By considering these components for each idea, you can effectively evaluate the 
 Let’s go over each step of an AB test idea:
 
 #### 3.1 Describe the hypothesis
-
-## This post is for paid subscribers
 

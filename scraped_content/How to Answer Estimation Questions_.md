@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How to Answer Estimation Questions? - My PM Interview
-
-### Product Management Estimation Interview: Here is a step by step guide on how to answer Product Estimations Questions with Detailed Solutions
-
-#### Share this post
-
 
 
 
@@ -47,6 +39,4 @@ Additionally, it's crucial for the candidate to inquire if their assumptions are
 Here is a step-by-step guide/framework, you should follow while answering estimation interview questions:
 
 #### 1. Clarify & Understand the scope of the question
-
-## This post is for paid subscribers
 

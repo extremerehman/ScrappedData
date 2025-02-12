@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# The Left Digit Effect - Decoding Consumer Psychology
-
-### Part 2 - Marketing and Pricing Psychology - Understanding the Left Digit Effect
-
-#### Share this post
-
 
 
 
@@ -77,6 +69,4 @@ The significance of the one-cent difference may be overshadowed by the rounded n
 While the left digit effect can significantly impact perceptions in certain cases, such as with prices like $9.99 and $10.00, its influence may be attenuated when prices are rounded to the nearest dollar, as seen in the example of $3.59 and $3.60.Understanding the contextual factors that moderate the left digit effect is essential for discerning its impact on consumer behavior and decision-making.
 
 By recognizing when the effect is more or less pronounced, individuals and businesses can navigate pricing strategies and consumer perceptions more effectively.
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Go-To-Market: How would you select Target Audience?
-
-### Product Marketing Management Interview - Selecting Target Audience (Part - 1)
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/go-to-market-how-to-select-a-target-audience?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -171,6 +163,4 @@ Competition: Viewing competition through a broader lens is indispensable. Beyond
 
 
 ### 7. Segmentation Strategies:
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve Uber? - Product Improvement
-
-### Uber Product Manager Interview: Product Improvement - How would you improve Uber Rides?
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/how-would-you-improve-uber-product?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -236,6 +228,4 @@ Flexibility: Uber's availability around the clock provides commuters with the fl
 
 
 ### Step 5.   List and prioritize the Pain Points. (P)
-
-## This post is for paid subscribers
 

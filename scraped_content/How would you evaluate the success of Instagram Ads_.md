@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you evaluate the success of Instagram Ads? - Instagram PM Interview
-
-### Instagram PM Interview - Product Metrics Question: What metrics would you look at as a product manager for Instagram ads?
-
-#### Share this post
-
 
 
 
@@ -86,6 +78,4 @@ This boosts user engagement, brand recognition, and sales for companies, as well
 
 
 ### Ask Clarifying Questions
-
-## This post is for paid subscribers
 

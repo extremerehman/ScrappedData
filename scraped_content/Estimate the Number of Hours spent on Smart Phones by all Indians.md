@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Estimation - Number of Hours spent on Smart Phones by all Indians
-
-### Guess Estimate the number of hours spent on Smartphones by all Indians in a day.
-
-#### Share this post
-
 
 
 
@@ -796,6 +788,4 @@ Product Strategy
 [Mission Statements of Top Tech Companies](https://www.mypminterview.com/p/mission-statement-of-top-tech-companies) [FREE]
 
 [100+ Product Manager Interview Questions ](https://www.mypminterview.com/p/100-product-manager-interview-questions)[FREE]
-
-#### Share this post
 

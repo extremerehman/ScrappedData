@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# 106 Principles of Product Design Psychology
-
-### 106 Cognitive Biases & Principles That Affects the User Experience of your Product.
-
-#### Share this post
-
 
 
 Every time users interact with your product, they:
@@ -222,6 +214,4 @@ People prefer familiar experiences.
 Users have an innate desire for things they're already familiar with. And the more we experience something, the more likely we are to like it. So, try to use common patterns when creating new experiences.
 
 #### 35.👼 Halo Effect
-
-## This post is for paid subscribers
 

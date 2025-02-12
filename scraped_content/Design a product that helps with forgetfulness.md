@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design a product that helps with forgetfulness
-
-### Google PM Interview: Product Design - Design a product that helps with forgetfulness
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/design-a-product-that-helps-with-forgetfulness?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -224,6 +216,4 @@ Forgetting to respond to emails, messages, or phone calls promptly due to a busy
 Struggling to maintain a balance between work responsibilities and personal commitments due to forgetfulness or poor time management.
 
 ### 5. Solutions
-
-## This post is for paid subscribers
 

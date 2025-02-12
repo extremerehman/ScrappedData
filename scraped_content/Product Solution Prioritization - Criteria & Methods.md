@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Product Solution Prioritization - Criteria & Methods
-
-### As a product manager, if you have multiple solutions to solve a product problem how would you prioritize the solutions
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/product-solution-prioritization-criteria-methods?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 As a product manager, to prioritize multiple solutions for solving a product problem, I would consider the following factors:
@@ -1238,6 +1230,4 @@ Twitter: [https://twitter.com/mypminterview_](https://twitter.com/mypminterview_
 YouTube: [https://www.youtube.com/@mypminterview/](https://www.youtube.com/@mypminterview/)
 
 Email: mypminterview@gmail.com or admin@mypminterview.com
-
-#### Share this post
 

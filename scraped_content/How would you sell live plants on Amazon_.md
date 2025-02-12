@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you sell live plants on Amazon? - Product Strategy
-
-### Amazon Product Management Interview: Product Strategy - How would you sell live plants on Amazon E-commerce platform?
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/how-would-you-sell-live-plants-on-amazon?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -302,6 +294,4 @@ Returns and Customer Satisfaction: Establish a clear and customer-friendly retur
 
 
 Given the important strategic themes of this delivery journey for the plant, below are a few strategic choices for Amazon:
-
-## This post is for paid subscribers
 

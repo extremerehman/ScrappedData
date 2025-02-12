@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Estimation - Number of ATMs in India
-
-### Product Management Interview: Guess estimate the total number of ATMs in India
-
-#### Share this post
-
 
 
 
@@ -1165,6 +1157,4 @@ Website: [https://www.mypminterview.com/subscribe](https://www.mypminterview.co
 Once done, email us the payment receipt at mypminterview@gmail.com
 
 In case you have any queries or suggestions, feel free to reach out at mypminterview@gmail.com
-
-#### Share this post
 

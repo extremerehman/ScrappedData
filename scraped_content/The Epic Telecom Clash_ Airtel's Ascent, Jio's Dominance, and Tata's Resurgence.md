@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study - Airtel Vs Jio's Vs Tata
-
-### The Epic Telecom Clash: Airtel's Ascent, Jio's Dominance, and Tata's Resurgence
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/business-case-study-airtel-vs-jio-vs-tata?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -147,6 +139,4 @@ C. Tata's future effect on the individual existing dominance of Airtel and Jio.
 1. Challenging the Status Quo with Innovative Offerings: Being positioned uniquely and having the leading technological potential, Tata Telecom may undermine the established market structure.
 
 2. Disrupting the Market Dynamics: Tatas’ launch could shake the status quo to which both Airtel and Jio have to adjust.
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve YouTube? - Product Improvement
-
-### Google Product Manager Interview: Product Improvement - How would you improve YouTube?
-
-#### Share this post
-
 
 
 
@@ -90,6 +82,4 @@ Some of the major competitors of YouTube (for viewers) are Facebook, Instagram, 
 
 
 ### Step 2. Ask clarifying questions to narrow the scope. (Q)
-
-## This post is for paid subscribers
 

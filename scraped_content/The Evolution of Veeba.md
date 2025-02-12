@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study: Veeba
-
-### Business Case Study: The Evolution of Veeba
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/business-case-study-veeba?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -87,6 +79,4 @@ In 2019, Veeba stepped into the nutrition segment, where they provided products 
 [Share](https://www.mypminterview.com/p/business-case-study-veeba?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 ## Veeba’s Marketing Strategies
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# What is the Market Size of iPhones in US?
-
-### Product Marketing Management Interview: Market Sizing Question: What is the market size of iPhones in US?
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/what-is-the-market-size-of-iphones?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -99,6 +91,4 @@ Estimate the average selling price (ASP) of an iPhone:
 Considering various models, assume an average selling price of $800.
 
 Calculate the Market Size:
-
-## This post is for paid subscribers
 

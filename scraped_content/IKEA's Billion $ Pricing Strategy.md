@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study: IKEA's Billion $ Pricing Strategy
-
-### IKEA : How to grow sales by 200% using Pricing Strategies?
-
-#### Share this post
-
 
 
 
@@ -1039,6 +1031,4 @@ Twitter: [https://twitter.com/mypminterview_](https://twitter.com/mypminterview_
 YouTube: [https://www.youtube.com/@mypminterview/](https://www.youtube.com/@mypminterview/)
 
 Email: mypminterview@gmail.com or admin@mypminterview.com
-
-#### Share this post
 

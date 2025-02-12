@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design Netflix for Senior Citizens | Netflix PM Interview Question
-
-### Netflix Product Manager Interview Question: How would you design Netflix for Senior Citizens?
-
-#### Share this post
-
 
 
 ### Why are Product Design Questions asked?
@@ -173,6 +165,4 @@ The user then resumes watching the show from where they left off.
 
 
 ### 7. Pain Points
-
-## This post is for paid subscribers
 

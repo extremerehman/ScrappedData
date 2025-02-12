@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design a bookshelf for children | Google PM Interview Question
-
-### Google Product Manager Interview Question: How would you design a bookshelf for children?
-
-#### Share this post
-
 
 
 The core responsibility of a product manager is to drive product vision, design and development. A business decides to make a product because it has identified a real customer need for which the customer is willing to pay. It is the role of the product manager to identify customer needs and drive the design and development of products that meet those needs.
@@ -235,6 +227,4 @@ Parents are the most likely buyers of bookshelves for their children. Since the 
 Now I would like to think about different use cases, that is activities parents and children like to do that are related to a bookshelf. This will help spark new ideas for creating innovative designs for bookshelves.
 
 
-
-## This post is for paid subscribers
 

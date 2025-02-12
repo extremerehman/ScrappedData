@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve Grammarly? | Amazon PM Interview
-
-### Amazon Product Manager Interview: Product Improvement - How would you improve Grammarly?
-
-#### Share this post
-
 
 
 [Share](https://www.mypminterview.com/p/product-improve-how-would-you-improve-grammarly?utm_source=substack&utm_medium=email&utm_content=share&action=share)
@@ -351,6 +343,4 @@ Average session time per user.
 
 
 Provide a quick summary of what you have accomplished during the interview.  First, highlight the goal of the improvement. Then briefly mention what user group and use cases you are focusing on. Then discuss the solutions you are proposing to achieve your goal and finally,  explain the metrics you will use to measure the impact of your suggested improvements.
-
-#### Share this post
 

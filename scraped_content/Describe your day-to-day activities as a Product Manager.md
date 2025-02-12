@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Describe your day-to-day activities as a Product Manager | Behavioral
-
-### How would you explain your Product Management lifecycle from ideation to execution to the Hiring Manager?
-
-#### Share this post
-
 Subscribe today and get access to every Answer on the platform. Limited Period Offer!
 
 [Activate Subscription & Unlock Answers](https://www.mypminterview.com/subscribe)
@@ -982,6 +974,4 @@ Product Strategy
 [100+ Product Manager Interview Questions ](https://www.mypminterview.com/p/100-product-manager-interview-questions)[FREE]
 
 [PM Interview Questions from your Work Experience](https://www.mypminterview.com/p/pm-interview-questions-from-your-work-experience) [FREE]
-
-#### Share this post
 

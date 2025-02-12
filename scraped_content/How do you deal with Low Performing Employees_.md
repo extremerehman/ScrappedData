@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How do you deal with Low Performing Employees? - Behavioral Interview
-
-### Product Management Behavioral Interview Question - As a Product Manager, How do you deal with Low Performing Employees in your team?
-
-#### Share this post
-
 
 
 As a product manager, you will likely be working with a diverse team of individuals with different skill sets and personalities. It's important that you have the ability to bring out the best in people and find ways to work effectively with everyone, even if there are performance issues. This includes being able to address the issue in a constructive and positive manner, without letting it escalate into a conflict or negative outcome. It's also important to find solutions that benefit the product and the team as a whole, rather than just focusing on the individual. By demonstrating these skills in an interview, you can show the interviewer that you have the ability to lead and manage a team effectively.
@@ -48,6 +40,4 @@ Result: Describes the outcome or result that was achieved as a result of the act
 #### Step 1: Understand the Situation
 
 To fully understand the situation when dealing with low-performing employees, it is important to consider the following factors:
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study: Amul's Strategy during the Pandemic
-
-### Amul - How Amul beat its competition & made Rs.39,200 CR during the 2020 pandemic
-
-#### Share this post
-
 
 
 
@@ -1001,6 +993,4 @@ Twitter: [https://twitter.com/mypminterview_](https://twitter.com/mypminterview_
 YouTube: [https://www.youtube.com/@mypminterview/](https://www.youtube.com/@mypminterview/)
 
 Email: mypminterview@gmail.com or admin@mypminterview.com
-
-#### Share this post
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design an AI app to check out & try on clothes
-
-### Salesforce PM Interview: Product Design - Design an AI-based application in a store that would help customers check out clothes and try them on.
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/design-an-ai-app-to-check-out-and-try-on-clothes?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -270,6 +262,4 @@ Difficulty in visualizing how different pieces will look together can result in 
 [Share](https://www.mypminterview.com/p/design-an-ai-app-to-check-out-and-try-on-clothes?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 ### 5. Solutions
-
-## This post is for paid subscribers
 

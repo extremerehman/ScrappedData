@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Product Improvement Questions: 6 Things to Remember while Answering
-
-### Here are a list of key things you should keep in mind while answering Product Improvement Questions during PM interview
-
-#### Share this post
-
 Subscribe today and get access to every Answer on the platform. Limited Period Offer!
 
 [Activate Subscription & Unlock Answers](https://www.mypminterview.com/subscribe)
@@ -913,6 +905,4 @@ Product Strategy
 [Mission Statements of Top Tech Companies](https://www.mypminterview.com/p/mission-statement-of-top-tech-companies) [FREE]
 
 [100+ Product Manager Interview Questions ](https://www.mypminterview.com/p/100-product-manager-interview-questions)[FREE]
-
-#### Share this post
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study: How Airtel is beating Reliance Jio?
-
-### Business Lessons from the Airtel - Jio Rivalry
-
-#### Share this post
-
 
 
 2016, a year which no Indian would forget due to demonetization. But, another major event happened that year that shook the entire telecommunication industry, i.e., the launching of Jio by Reliance industries. While we, the consumers were enjoying the newfound  luxury of the internet. On the contrary, it was a dread to the rest  of the telecom companies. Their stock prices came down, several giant companies shut down. The crowded telecom space of India now  seemed like a deserted battlefield with only a few players left. But  throughout this brutal telecom war, there was a company that stood  still, and that is none other than Airtel.
@@ -1016,6 +1008,4 @@ Twitter: [https://twitter.com/mypminterview_](https://twitter.com/mypminterview_
 YouTube: [https://www.youtube.com/@mypminterview/](https://www.youtube.com/@mypminterview/)
 
 Email: mypminterview@gmail.com or admin@mypminterview.com
-
-#### Share this post
 

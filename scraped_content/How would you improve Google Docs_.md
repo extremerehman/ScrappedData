@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve Google Docs? - Product Improvement
-
-### Google Product Manager Interview: Product Improvement - How would you improve Google Docs?
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/how-can-we-improve-google-docs-product?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 ### How to Answer Product Improvement Questions?
@@ -244,6 +236,4 @@ Professional Communication: Professionals and businesses can provide feedback, e
 ### Step 5.   List and prioritize the Pain Points
 
 Here are some pain points that Professionals and businesses using Google Docs may encounter:
-
-## This post is for paid subscribers
 

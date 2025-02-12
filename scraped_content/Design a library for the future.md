@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design a library for the future
-
-### Google PM Interview: Product Design - Design a library for the future
-
-#### Share this post
-
 ### 
 
 
@@ -249,6 +241,4 @@ Financial Constraints: Students may face financial constraints that limit their 
 
 
 ### 5. Solutions
-
-## This post is for paid subscribers
 

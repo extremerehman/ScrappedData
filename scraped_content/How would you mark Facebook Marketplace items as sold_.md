@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you mark Facebook Marketplace items as sold?
-
-### You're the product manager for Facebook Marketplace. Since many sellers don't mark items as sold, what existing functionality and metrics could you use to determine whether an item has likely sold?
-
-#### Share this post
-
 
 
 
@@ -169,6 +161,4 @@ They may intentionally choose not to mark the item as sold in order to harm buye
 ### Solutions:
 
 There are a few approaches that can be taken to address this issue:
-
-## This post is for paid subscribers
 

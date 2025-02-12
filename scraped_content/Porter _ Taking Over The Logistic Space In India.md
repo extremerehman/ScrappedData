@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study: Porter
-
-### Business Case Study - Porter : Taking Over The Logistic Space In India
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/business-case-study-porter?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -55,6 +47,4 @@ And guess what? Their pitch actually worked. We could see it in the graph in les
 After a year, in 2015, they launched their app. Since the business was going well, things were getting better. They got the idea of starting up intercity services, but this is where they started facing problems. Their business was only running in Delhi NCR and Mumbai at that particular point in time; their intercity work was still going on. There was still a lot more work that needed to be put into it, and without giving it a second thought, they jumped to the intercity part, but this sector already had a number of competitors that had good names, for example, Delhivery and FedEx.
 
 ## Downfall
-
-## This post is for paid subscribers
 

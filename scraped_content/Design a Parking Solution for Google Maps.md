@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design a Parking Solution for Google Maps
-
-### Product Design Question - Asked at Google, Meta and other large tech companies
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/design-a-parking-solution-for-google-maps?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -608,6 +600,4 @@ Criteria for selection: Severity of Pain & No existing solutions.
 
 
 ## Step 7: Solutions
-
-## This post is for paid subscribers
 

@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# How would you improve Gmail? | Google PM Interview
-
-### Google Product Manager Interview Question: Product Improvement - How would you improve Gmail?
-
-#### Share this post
-
 
 
 
@@ -228,6 +220,4 @@ If we can keep these highly active users more engaged, it will increase their re
 
 
 ### Step 5: List the Pain Points for that segment
-
-## This post is for paid subscribers
 

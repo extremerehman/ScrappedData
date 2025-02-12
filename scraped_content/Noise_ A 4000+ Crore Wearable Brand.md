@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study - Noise: A 4000+ Crore Wearable Brand
-
-### Business Case Study - The Rise of Noise: A 4000 Crore Wearable Brand
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/business-case-study-noise-4000cr-wearable-brand?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -76,6 +68,4 @@ Another major challenge is maintaining affordability while incorporating advance
 
 
 ## Future of Noise
-
-## This post is for paid subscribers
 

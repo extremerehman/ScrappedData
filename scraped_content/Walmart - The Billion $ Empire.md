@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Business Case Study: Walmart - The Billion $ Empire
-
-### Walmart - The success story of Samuel Moore Walton and How did it become the most powerful business Empire worth $559 Billion.
-
-#### Share this post
-
 
 
 This is the story of a man who went from being an ordinary salesman to becoming the retail billionaire of America. Today his family is worth $215 billion. The iconic businessman is none other than Mr. Samuel Moore Walton and the company he started is known today as the retail giant Walmart.
@@ -979,6 +971,4 @@ Twitter: [https://twitter.com/mypminterview_](https://twitter.com/mypminterview_
 YouTube: [https://www.youtube.com/@mypminterview/](https://www.youtube.com/@mypminterview/)
 
 Email: mypminterview@gmail.com or admin@mypminterview.com
-
-#### Share this post
 

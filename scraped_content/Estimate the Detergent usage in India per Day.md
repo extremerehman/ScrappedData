@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Estimation - Detergent Usage in India
-
-### Guess estimate the total amount of detergent usage (in KG) in India per Day
-
-#### Share this post
-
 
 
 
@@ -841,6 +833,4 @@ Product Strategy
 [Mission Statements of Top Tech Companies](https://www.mypminterview.com/p/mission-statement-of-top-tech-companies) [FREE]
 
 [100+ Product Manager Interview Questions ](https://www.mypminterview.com/p/100-product-manager-interview-questions)[FREE]
-
-#### Share this post
 

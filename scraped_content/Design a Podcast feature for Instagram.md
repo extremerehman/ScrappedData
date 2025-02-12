@@ -4,14 +4,6 @@
 
 ---
 
-#### Share this post
-
-# Design a Podcast feature for Instagram
-
-### Product Design Question - Asked at Google, Meta, Microsoft and other large tech companies.
-
-#### Share this post
-
 [Share](https://www.mypminterview.com/p/design-a-podcast-feature-for-instagram?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 
@@ -290,6 +282,4 @@ Beginners often feel self-conscious about putting their voice and opinions out t
 [Share](https://www.mypminterview.com/p/design-a-podcast-feature-for-instagram?utm_source=substack&utm_medium=email&utm_content=share&action=share)
 
 ## Step 6: Solutions
-
-## This post is for paid subscribers
 
